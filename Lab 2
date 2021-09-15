@@ -1,0 +1,2 @@
+Dictio = {"hello":157,"rawr":187}
+print(Dictio["hello"])
